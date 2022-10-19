@@ -1,0 +1,15 @@
+D:\Задача 10\bin\Debug\net6.0\Задача 10.exe
+D:\Задача 10\bin\Debug\net6.0\Задача 10.deps.json
+D:\Задача 10\bin\Debug\net6.0\Задача 10.runtimeconfig.json
+D:\Задача 10\bin\Debug\net6.0\Задача 10.dll
+D:\Задача 10\bin\Debug\net6.0\Задача 10.pdb
+D:\Задача 10\obj\Debug\net6.0\Задача 10.csproj.AssemblyReference.cache
+D:\Задача 10\obj\Debug\net6.0\Задача 10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Задача 10\obj\Debug\net6.0\Задача 10.AssemblyInfoInputs.cache
+D:\Задача 10\obj\Debug\net6.0\Задача 10.AssemblyInfo.cs
+D:\Задача 10\obj\Debug\net6.0\Задача 10.csproj.CoreCompileInputs.cache
+D:\Задача 10\obj\Debug\net6.0\Задача 10.dll
+D:\Задача 10\obj\Debug\net6.0\refint\Задача 10.dll
+D:\Задача 10\obj\Debug\net6.0\Задача 10.pdb
+D:\Задача 10\obj\Debug\net6.0\Задача 10.genruntimeconfig.cache
+D:\Задача 10\obj\Debug\net6.0\ref\Задача 10.dll
