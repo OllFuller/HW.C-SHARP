@@ -19,3 +19,4 @@ if (third < number)
 Console.WriteLine($"третья цифра в числе {number} -> {result}");
 
 
+.
